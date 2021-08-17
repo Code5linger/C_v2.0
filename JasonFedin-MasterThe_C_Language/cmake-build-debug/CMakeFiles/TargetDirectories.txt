@@ -1,0 +1,3 @@
+D:/.Code/C/JasonFedin-MasterThe_C_Language/cmake-build-debug/CMakeFiles/JasonFedin_MasterThe_C_Language.dir
+D:/.Code/C/JasonFedin-MasterThe_C_Language/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/.Code/C/JasonFedin-MasterThe_C_Language/cmake-build-debug/CMakeFiles/rebuild_cache.dir
